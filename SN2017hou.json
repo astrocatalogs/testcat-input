@@ -1,0 +1,37 @@
+{
+	"SN2017hou":{
+		"schema":"",
+		"name":"SN2017hou",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2017hou",
+				"source":"1"
+			},
+			{
+				"value":"PTSS-17zlt",
+				"source":"1"
+			},
+			{
+				"value":"AT2017hou",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2017",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

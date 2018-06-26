@@ -1,0 +1,40 @@
+{
+	"SN2011kh":{
+		"schema":"",
+		"name":"SN2011kh",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2011kh",
+				"source":"1"
+			},
+			{
+				"value":"SNhunt65",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2011",
+				"derived":true,
+				"source":"1"
+			}
+		],
+		"errors":[
+			{
+				"extra":"dec",
+				"kind":"name",
+				"value":"Latest Supernovae"
+			}
+		]
+	}
+}

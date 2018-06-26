@@ -1,0 +1,37 @@
+{
+	"SN2016fov":{
+		"schema":"",
+		"name":"SN2016fov",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2016fov",
+				"source":"1"
+			},
+			{
+				"value":"Gaia16bhu",
+				"source":"1"
+			},
+			{
+				"value":"AT2016fov",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2016",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

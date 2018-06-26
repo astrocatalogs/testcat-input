@@ -1,0 +1,41 @@
+{
+	"SN2001dc":{
+		"schema":"",
+		"name":"SN2001dc",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2001dc",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2001",
+				"derived":true,
+				"source":"1"
+			}
+		],
+		"spectra":[
+			{
+				"exclude":[
+					{
+						"below":"3400.0",
+						"reason":"noise"
+					}
+				],
+				"filename":"2001dc_20010816_3200_8057_00.dat",
+				"source":"1"
+			}
+		]
+	}
+}

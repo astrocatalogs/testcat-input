@@ -1,0 +1,37 @@
+{
+	"SN2003fg":{
+		"schema":"",
+		"name":"SN2003fg",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2003fg",
+				"source":"1"
+			},
+			{
+				"value":"SNLS-03D3bb",
+				"source":"1"
+			},
+			{
+				"value":"Champagne Supernova",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2003",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

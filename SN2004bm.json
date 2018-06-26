@@ -1,0 +1,36 @@
+{
+	"SN2004bm":{
+		"schema":"",
+		"name":"SN2004bm",
+		"sources":[
+			{
+				"name":"CfA Supernova Archive",
+				"acknowledgment":"This research has made use of the CfA Supernova Archive, which is funded in part by the National Science Foundation through grant AST 0907903.",
+				"secondary":true,
+				"url":"https://www.cfa.harvard.edu/supernova/SNarchive.html",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2004bm",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2004",
+				"derived":true,
+				"source":"2"
+			}
+		]
+	}
+}

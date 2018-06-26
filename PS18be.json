@@ -1,0 +1,33 @@
+{
+	"PS18be":{
+		"schema":"",
+		"name":"PS18be",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"PS18be",
+				"source":"1"
+			},
+			{
+				"value":"PTSS-18kv",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2018",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

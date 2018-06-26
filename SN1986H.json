@@ -1,0 +1,41 @@
+{
+	"SN1986H":{
+		"schema":"",
+		"name":"SN1986H",
+		"sources":[
+			{
+				"name":"1986IAUC.4219....1P",
+				"bibcode":"1986IAUC.4219....1P",
+				"reference":"Pennypacker et al. (1986)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1986H",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"False Positive",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1986",
+				"derived":true,
+				"source":"2"
+			}
+		]
+	}
+}

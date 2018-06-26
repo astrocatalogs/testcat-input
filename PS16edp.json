@@ -1,0 +1,33 @@
+{
+	"PS16edp":{
+		"schema":"",
+		"name":"PS16edp",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"PS16edp",
+				"source":"1"
+			},
+			{
+				"value":"MLS160909:013411+250939",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2016/09/09",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

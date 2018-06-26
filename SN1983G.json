@@ -1,0 +1,48 @@
+{
+	"SN1983G":{
+		"schema":"",
+		"name":"SN1983G",
+		"sources":[
+			{
+				"name":"2006ApJ...646..369P",
+				"bibcode":"2006ApJ...646..369P",
+				"reference":"Panagia et al. (2006)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1983G",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1983/05/27",
+				"derived":true,
+				"source":"1,2"
+			}
+		],
+		"photometry":[
+			{
+				"time":"45481.00",
+				"e_fluxdensity":"70.0",
+				"fluxdensity":"0.0",
+				"frequency":"4.8",
+				"instrument":"VLA",
+				"u_fluxdensity":"µJy",
+				"u_frequency":"GHz",
+				"u_time":"MJD",
+				"source":"1"
+			}
+		]
+	}
+}

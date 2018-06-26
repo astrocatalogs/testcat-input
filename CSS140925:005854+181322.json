@@ -1,0 +1,71 @@
+{
+	"CSS140925:005854+181322":{
+		"schema":"",
+		"name":"CSS140925:005854+181322",
+		"sources":[
+			{
+				"name":"2014ATel.6523....1C",
+				"bibcode":"2014ATel.6523....1C",
+				"reference":"Campbell (2014)",
+				"alias":"1"
+			},
+			{
+				"name":"2011ApJ...737..103S",
+				"bibcode":"2011ApJ...737..103S",
+				"reference":"Schlafly & Finkbeiner (2011)",
+				"alias":"2"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"3"
+			}
+		],
+		"alias":[
+			{
+				"value":"CSS140925:005854+181322",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"SLSN-I",
+				"source":"1"
+			}
+		],
+		"dec":[
+			{
+				"value":"+18:13:22",
+				"derived":true,
+				"u_value":"degrees",
+				"source":"3"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2014/09/25",
+				"derived":true,
+				"source":"3"
+			}
+		],
+		"ebv":[
+			{
+				"value":"0.0568",
+				"derived":true,
+				"e_value":"0.0014",
+				"source":"2,3"
+			}
+		],
+		"ra":[
+			{
+				"value":"00:58:54",
+				"derived":true,
+				"u_value":"hours",
+				"source":"3"
+			}
+		]
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"Cayanne":{
+		"schema":"",
+		"name":"Cayanne",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"Cayanne",
+				"source":"1"
+			},
+			{
+				"value":"HST04Cay",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2004",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

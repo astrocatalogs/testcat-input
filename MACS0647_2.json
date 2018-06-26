@@ -1,0 +1,26 @@
+{
+	"MACS0647_2":{
+		"schema":"",
+		"name":"MACS0647_2",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"MACS0647_2",
+				"source":"1"
+			},
+			{
+				"value":"MACS J0647+702 2",
+				"source":"1"
+			}
+		]
+	}
+}

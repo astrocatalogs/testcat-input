@@ -1,0 +1,48 @@
+{
+	"SN2010jr":{
+		"schema":"",
+		"name":"SN2010jr",
+		"sources":[
+			{
+				"name":"2010CBET.2548....1C",
+				"bibcode":"2010CBET.2548....1C",
+				"reference":"Challis, Kirshner, & Smith (2010)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2010jr",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"IIb",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2010",
+				"derived":true,
+				"source":"2"
+			}
+		],
+		"errors":[
+			{
+				"extra":"claimedtype",
+				"kind":"name",
+				"value":"Latest Supernovae"
+			}
+		]
+	}
+}

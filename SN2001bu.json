@@ -1,0 +1,41 @@
+{
+	"SN2001bu":{
+		"schema":"",
+		"name":"SN2001bu",
+		"sources":[
+			{
+				"name":"2016arXiv160501054G",
+				"bibcode":"2016arXiv160501054G",
+				"reference":"Guillochon et al. (2016)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2001bu",
+				"source":"2"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"QSO?",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2001",
+				"derived":true,
+				"source":"2"
+			}
+		]
+	}
+}

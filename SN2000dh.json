@@ -1,0 +1,41 @@
+{
+	"SN2000dh":{
+		"schema":"",
+		"name":"SN2000dh",
+		"sources":[
+			{
+				"name":"2000IAUC.7483....4F",
+				"bibcode":"2000IAUC.7483....4F",
+				"reference":"Filippenko & Li (2000)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2000dh",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Star",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2000",
+				"derived":true,
+				"source":"2"
+			}
+		]
+	}
+}

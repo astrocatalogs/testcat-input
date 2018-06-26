@@ -1,0 +1,59 @@
+{
+	"PTF10iuv":{
+		"schema":"",
+		"name":"PTF10iuv",
+		"sources":[
+			{
+				"name":"2012ApJ...755..161K",
+				"bibcode":"2012ApJ...755..161K",
+				"reference":"Kasliwal et al. (2012)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"PTF10iuv",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2010/08/25",
+				"derived":true,
+				"source":"1,2"
+			}
+		],
+		"photometry":[
+			{
+				"time":"55433.10",
+				"e_fluxdensity":"63.0",
+				"fluxdensity":"0.0",
+				"frequency":"8.5",
+				"instrument":"VLA",
+				"u_fluxdensity":"µJy",
+				"u_frequency":"GHz",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55693.20",
+				"e_fluxdensity":"32.0",
+				"fluxdensity":"0.0",
+				"frequency":"8.5",
+				"instrument":"VLA",
+				"u_fluxdensity":"µJy",
+				"u_frequency":"GHz",
+				"u_time":"MJD",
+				"source":"1"
+			}
+		]
+	}
+}

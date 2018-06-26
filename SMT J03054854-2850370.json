@@ -1,0 +1,56 @@
+{
+	"SMT J03054854-2850370":{
+		"schema":"",
+		"name":"SMT J03054854-2850370",
+		"sources":[
+			{
+				"name":"2011ApJ...737..103S",
+				"bibcode":"2011ApJ...737..103S",
+				"reference":"Schlafly & Finkbeiner (2011)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"SMT J03054854-2850370",
+				"source":"2"
+			},
+			{
+				"value":"SMT J03054854-28503700",
+				"source":"2"
+			}
+		],
+		"dec":[
+			{
+				"value":"-28:50:37.00",
+				"derived":true,
+				"u_value":"degrees",
+				"source":"2"
+			}
+		],
+		"ebv":[
+			{
+				"value":"0.0124",
+				"derived":true,
+				"e_value":"0.0003",
+				"source":"1,2"
+			}
+		],
+		"ra":[
+			{
+				"value":"03:05:48.54",
+				"derived":true,
+				"u_value":"hours",
+				"source":"2"
+			}
+		]
+	}
+}

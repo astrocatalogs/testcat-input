@@ -1,0 +1,39 @@
+{
+	"SN1994J":{
+		"schema":"",
+		"name":"SN1994J",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1994J",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1994",
+				"derived":true,
+				"source":"1"
+			}
+		],
+		"distinctfrom":[
+			{
+				"value":"PS17ccp",
+				"source":"1"
+			},
+			{
+				"value":"AT2017cwa",
+				"source":"1"
+			}
+		]
+	}
+}

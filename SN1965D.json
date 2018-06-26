@@ -1,0 +1,36 @@
+{
+	"SN1965D":{
+		"schema":"",
+		"name":"SN1965D",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1965D",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1965",
+				"derived":true,
+				"source":"1"
+			}
+		],
+		"errors":[
+			{
+				"extra":"dec",
+				"kind":"bibcode",
+				"value":"2012A&A...538A.120L"
+			}
+		]
+	}
+}

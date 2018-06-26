@@ -1,0 +1,46 @@
+{
+	"SN1976B":{
+		"schema":"",
+		"name":"SN1976B",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1976B",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1976",
+				"derived":true,
+				"source":"1"
+			}
+		],
+		"errors":[
+			{
+				"extra":"redshift",
+				"kind":"bibcode",
+				"value":"2016A&A...594A..13P"
+			},
+			{
+				"extra":"redshift",
+				"kind":"bibcode",
+				"value":"1988SSRv...48....1R"
+			},
+			{
+				"extra":"redshift",
+				"kind":"name",
+				"value":"NED-D"
+			}
+		]
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"PS15coh":{
+		"schema":"",
+		"name":"PS15coh",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"PS15coh",
+				"source":"1"
+			},
+			{
+				"value":"MLS151211:021558+121414",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2015/12/11",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"SN2007tf":{
+		"schema":"",
+		"name":"SN2007tf",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2007tf",
+				"source":"1"
+			},
+			{
+				"value":"SDSS-II SN 18942",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2007",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

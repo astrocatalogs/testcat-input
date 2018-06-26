@@ -1,0 +1,46 @@
+{
+	"SN1999bg":{
+		"schema":"",
+		"name":"SN1999bg",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1999bg",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1999",
+				"derived":true,
+				"source":"1"
+			}
+		],
+		"errors":[
+			{
+				"extra":"redshift",
+				"kind":"bibcode",
+				"value":"2012A&A...538A.120L"
+			},
+			{
+				"extra":"redshift",
+				"kind":"bibcode",
+				"value":"1999IAUC.7135....3G"
+			},
+			{
+				"extra":"redshift",
+				"kind":"name",
+				"value":"Latest Supernovae"
+			}
+		]
+	}
+}

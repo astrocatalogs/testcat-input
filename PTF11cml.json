@@ -1,0 +1,37 @@
+{
+	"PTF11cml":{
+		"schema":"",
+		"name":"PTF11cml",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"PTF11cml",
+				"source":"1"
+			},
+			{
+				"value":"PSc151034",
+				"source":"1"
+			},
+			{
+				"value":"PS1-11wv",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2011",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

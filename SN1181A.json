@@ -1,0 +1,55 @@
+{
+	"SN1181A":{
+		"schema":"",
+		"name":"SN1181A",
+		"sources":[
+			{
+				"name":"2013A&A...560A..18K",
+				"bibcode":"2013A&A...560A..18K",
+				"reference":"Kothes (2013)",
+				"alias":"1"
+			},
+			{
+				"name":"2002ISAA....5.....S",
+				"bibcode":"2002ISAA....5.....S",
+				"reference":"Stephenson & Green (2002)",
+				"alias":"2"
+			},
+			{
+				"name":"1977hisu.book.....C",
+				"bibcode":"1977hisu.book.....C",
+				"reference":"Clark & Stephenson (1977)",
+				"alias":"3"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1181A",
+				"source":"2"
+			},
+			{
+				"value":"SN1181",
+				"source":"2"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"CC?",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1181/08/13",
+				"source":"2"
+			}
+		],
+		"maxappmag":[
+			{
+				"value":"0",
+				"lowerlimit":true,
+				"source":"3"
+			}
+		]
+	}
+}

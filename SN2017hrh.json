@@ -1,0 +1,37 @@
+{
+	"SN2017hrh":{
+		"schema":"",
+		"name":"SN2017hrh",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2017hrh",
+				"source":"1"
+			},
+			{
+				"value":"MLS171024:020025p031921",
+				"source":"1"
+			},
+			{
+				"value":"AT2017hrh",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2017/10/24",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

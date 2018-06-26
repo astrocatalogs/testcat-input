@@ -1,0 +1,28 @@
+{
+	"SN25747NSV":{
+		"schema":"",
+		"name":"SN25747NSV",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN25747NSV",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Variable Star",
+				"source":"1"
+			}
+		]
+	}
+}

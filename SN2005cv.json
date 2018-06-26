@@ -1,0 +1,39 @@
+{
+	"SN2005cv":{
+		"schema":"",
+		"name":"SN2005cv",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2005cv",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2005",
+				"derived":true,
+				"source":"1"
+			}
+		],
+		"distinctfrom":[
+			{
+				"value":"PSN J01534240+2956107",
+				"source":"1"
+			},
+			{
+				"value":"PSN J01534240+295610",
+				"source":"1"
+			}
+		]
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"SN2010fq":{
+		"schema":"",
+		"name":"SN2010fq",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2010fq",
+				"source":"1"
+			},
+			{
+				"value":"PSc050296",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2010",
+				"derived":true,
+				"source":"1"
+			}
+		],
+		"errors":[
+			{
+				"extra":"ra",
+				"kind":"bibcode",
+				"value":"1989A&AS...81..421B"
+			},
+			{
+				"extra":"ra",
+				"kind":"name",
+				"value":"Transient Name Server"
+			},
+			{
+				"extra":"ra",
+				"kind":"bibcode",
+				"value":"2012A&A...538A.120L"
+			},
+			{
+				"extra":"dec",
+				"kind":"bibcode",
+				"value":"1989A&AS...81..421B"
+			},
+			{
+				"extra":"dec",
+				"kind":"bibcode",
+				"value":"2012A&A...538A.120L"
+			}
+		]
+	}
+}

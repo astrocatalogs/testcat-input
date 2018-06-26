@@ -1,0 +1,33 @@
+{
+	"SN2013X":{
+		"schema":"",
+		"name":"SN2013X",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2013X",
+				"source":"1"
+			},
+			{
+				"value":"PSc480058",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2013",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

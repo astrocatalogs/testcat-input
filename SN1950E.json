@@ -1,0 +1,41 @@
+{
+	"SN1950E":{
+		"schema":"",
+		"name":"SN1950E",
+		"sources":[
+			{
+				"name":"1990PASJ...42..597O",
+				"bibcode":"1990PASJ...42..597O",
+				"reference":"Ohsawa, Taniguchi, & Kosai (1990)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1950E",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Asteroid",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1950",
+				"derived":true,
+				"source":"2"
+			}
+		]
+	}
+}

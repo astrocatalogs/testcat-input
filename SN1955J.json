@@ -1,0 +1,36 @@
+{
+	"SN1955J":{
+		"schema":"",
+		"name":"SN1955J",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1955J",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1955",
+				"derived":true,
+				"source":"1"
+			}
+		],
+		"errors":[
+			{
+				"extra":"hostdec",
+				"kind":"bibcode",
+				"value":"2012A&A...538A.120L"
+			}
+		]
+	}
+}

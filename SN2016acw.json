@@ -1,0 +1,41 @@
+{
+	"SN2016acw":{
+		"schema":"",
+		"name":"SN2016acw",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2016acw",
+				"source":"1"
+			},
+			{
+				"value":"AT2016acw",
+				"source":"1"
+			},
+			{
+				"value":"Gaia16ace",
+				"source":"1"
+			},
+			{
+				"value":"PS16aew",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2016",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

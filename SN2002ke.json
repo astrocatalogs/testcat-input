@@ -1,0 +1,36 @@
+{
+	"SN2002ke":{
+		"schema":"",
+		"name":"SN2002ke",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2002ke",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2002",
+				"derived":true,
+				"source":"1"
+			}
+		],
+		"errors":[
+			{
+				"extra":"dec",
+				"kind":"bibcode",
+				"value":"2014MNRAS.444.2133S"
+			}
+		]
+	}
+}

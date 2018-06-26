@@ -1,0 +1,33 @@
+{
+	"PSc170428":{
+		"schema":"",
+		"name":"PSc170428",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"PSc170428",
+				"source":"1"
+			},
+			{
+				"value":"PS1-11aea",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2011",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

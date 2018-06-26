@@ -1,0 +1,33 @@
+{
+	"SN2003fn":{
+		"schema":"",
+		"name":"SN2003fn",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2003fn",
+				"source":"1"
+			},
+			{
+				"value":"SNLS-03D3ba",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2003",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

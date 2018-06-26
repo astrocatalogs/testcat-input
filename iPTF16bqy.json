@@ -1,0 +1,33 @@
+{
+	"iPTF16bqy":{
+		"schema":"",
+		"name":"iPTF16bqy",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"iPTF16bqy",
+				"source":"1"
+			},
+			{
+				"value":"ASASSN-16hf",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2016",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

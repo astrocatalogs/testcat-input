@@ -1,0 +1,41 @@
+{
+	"SN1916A":{
+		"schema":"",
+		"name":"SN1916A",
+		"sources":[
+			{
+				"name":"1923AN....219..283R",
+				"bibcode":"1923AN....219..283R",
+				"reference":"Reinmuth (1923)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1916A",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Variable Star",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1916",
+				"derived":true,
+				"source":"2"
+			}
+		]
+	}
+}

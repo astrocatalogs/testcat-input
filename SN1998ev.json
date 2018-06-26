@@ -1,0 +1,41 @@
+{
+	"SN1998ev":{
+		"schema":"",
+		"name":"SN1998ev",
+		"sources":[
+			{
+				"name":"2003IAUC.8171....2G",
+				"bibcode":"2003IAUC.8171....2G",
+				"reference":"Gal-Yam et al. (2003)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1998ev",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"False Positive",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1998",
+				"derived":true,
+				"source":"2"
+			}
+		]
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"SN2018iq":{
+		"schema":"",
+		"name":"SN2018iq",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2018iq",
+				"source":"1"
+			},
+			{
+				"value":"PTSS-18box",
+				"source":"1"
+			},
+			{
+				"value":"AT2018iq",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2018",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

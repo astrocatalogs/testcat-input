@@ -1,0 +1,69 @@
+{
+	"SN2014dr":{
+		"schema":"",
+		"name":"SN2014dr",
+		"sources":[
+			{
+				"name":"2014CBET.4009....1H",
+				"bibcode":"2014CBET.4009....1H",
+				"reference":"Howerton et al. (2014)",
+				"alias":"1"
+			},
+			{
+				"name":"2011ApJ...737..103S",
+				"bibcode":"2011ApJ...737..103S",
+				"reference":"Schlafly & Finkbeiner (2011)",
+				"alias":"2"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"3"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2014dr",
+				"source":"1"
+			},
+			{
+				"value":"PSN J03224639+0009207",
+				"source":"1"
+			}
+		],
+		"dec":[
+			{
+				"value":"+00:09:20.7",
+				"derived":true,
+				"u_value":"degrees",
+				"source":"3"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2014",
+				"derived":true,
+				"source":"3"
+			}
+		],
+		"ebv":[
+			{
+				"value":"0.1013",
+				"derived":true,
+				"e_value":"0.0043",
+				"source":"2,3"
+			}
+		],
+		"ra":[
+			{
+				"value":"03:22:46.39",
+				"derived":true,
+				"u_value":"hours",
+				"source":"3"
+			}
+		]
+	}
+}

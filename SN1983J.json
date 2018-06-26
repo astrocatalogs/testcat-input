@@ -1,0 +1,41 @@
+{
+	"SN1983J":{
+		"schema":"",
+		"name":"SN1983J",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1983J",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1983",
+				"derived":true,
+				"source":"1"
+			}
+		],
+		"errors":[
+			{
+				"extra":"claimedtype",
+				"kind":"bibcode",
+				"value":"2013MNRAS.433L..20M"
+			},
+			{
+				"extra":"claimedtype",
+				"kind":"bibcode",
+				"value":"2000A&AS..143....9W"
+			}
+		]
+	}
+}

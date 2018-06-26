@@ -1,0 +1,35 @@
+{
+	"SN1914K":{
+		"schema":"",
+		"name":"SN1914K",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1914K",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Erroneous Entry",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1914",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

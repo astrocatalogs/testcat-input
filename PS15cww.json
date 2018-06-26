@@ -1,0 +1,33 @@
+{
+	"PS15cww":{
+		"schema":"",
+		"name":"PS15cww",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"PS15cww",
+				"source":"1"
+			},
+			{
+				"value":"Gaia16aab",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2015",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

@@ -1,0 +1,51 @@
+{
+	"SN1999em":{
+		"schema":"",
+		"name":"SN1999em",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1999em",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1999",
+				"derived":true,
+				"source":"1"
+			}
+		],
+		"spectra":[
+			{
+				"exclude":[
+					{
+						"below":"3800.0",
+						"reason":"noise"
+					}
+				],
+				"filename":"sn1999em-19991119-o.flm",
+				"source":"1"
+			},
+			{
+				"exclude":[
+					{
+						"below":"3800.0",
+						"reason":"noise"
+					}
+				],
+				"filename":"sn1999em-19991122-o.flm",
+				"source":"1"
+			}
+		]
+	}
+}

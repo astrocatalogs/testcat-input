@@ -1,0 +1,39 @@
+{
+	"AT2016cdb":{
+		"schema":"",
+		"name":"AT2016cdb",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"AT2016cdb",
+				"source":"1"
+			},
+			{
+				"value":"Gaia16aof",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Candidate",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2016",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

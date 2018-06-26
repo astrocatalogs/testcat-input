@@ -1,0 +1,33 @@
+{
+	"PS1-10bls":{
+		"schema":"",
+		"name":"PS1-10bls",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"PS1-10bls",
+				"source":"1"
+			},
+			{
+				"value":"PSc100213",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2010",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

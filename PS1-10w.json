@@ -1,0 +1,37 @@
+{
+	"PS1-10w":{
+		"schema":"",
+		"name":"PS1-10w",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"PS1-10w",
+				"source":"1"
+			},
+			{
+				"value":"PSc010026",
+				"source":"1"
+			},
+			{
+				"value":"PS1-1000023",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2010",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

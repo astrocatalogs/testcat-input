@@ -1,0 +1,39 @@
+{
+	"Vela":{
+		"schema":"",
+		"name":"Vela",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"Vela",
+				"source":"1"
+			},
+			{
+				"value":"G263.9-03.3",
+				"source":"1"
+			},
+			{
+				"value":"HSN11k",
+				"source":"1"
+			}
+		],
+		"lumdist":[
+			{
+				"value":"0.000294",
+				"e_lower_value":"0.000050",
+				"e_upper_value":"0.000075",
+				"u_value":"Mpc",
+				"source":"1"
+			}
+		]
+	}
+}

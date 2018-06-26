@@ -1,0 +1,41 @@
+{
+	"SN1986F":{
+		"schema":"",
+		"name":"SN1986F",
+		"sources":[
+			{
+				"name":"1986IAUC.4213....2F",
+				"bibcode":"1986IAUC.4213....2F",
+				"reference":"Filippenko & McCarthy (1986)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1986F",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"HII Region",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1986",
+				"derived":true,
+				"source":"2"
+			}
+		]
+	}
+}

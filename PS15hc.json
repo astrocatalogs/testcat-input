@@ -1,0 +1,33 @@
+{
+	"PS15hc":{
+		"schema":"",
+		"name":"PS15hc",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"PS15hc",
+				"source":"1"
+			},
+			{
+				"value":"MLS150310:073731+234523",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2015/03/10",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

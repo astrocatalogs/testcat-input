@@ -1,0 +1,33 @@
+{
+	"DES12C1a":{
+		"schema":"",
+		"name":"DES12C1a",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"DES12C1a",
+				"source":"1"
+			},
+			{
+				"value":"PSc460037",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2012",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

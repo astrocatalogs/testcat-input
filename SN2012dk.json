@@ -1,0 +1,33 @@
+{
+	"SN2012dk":{
+		"schema":"",
+		"name":"SN2012dk",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2012dk",
+				"source":"1"
+			},
+			{
+				"value":"OGLE-2012-SN-009",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2012",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

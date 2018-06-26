@@ -1,0 +1,33 @@
+{
+	"PS1-13dhp":{
+		"schema":"",
+		"name":"PS1-13dhp",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"PS1-13dhp",
+				"source":"1"
+			},
+			{
+				"value":"MLS130924:002105+043734",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2013/09/24",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

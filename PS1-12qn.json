@@ -1,0 +1,33 @@
+{
+	"PS1-12qn":{
+		"schema":"",
+		"name":"PS1-12qn",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"PS1-12qn",
+				"source":"1"
+			},
+			{
+				"value":"MLS120317:114454+091107",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2012/03/17",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

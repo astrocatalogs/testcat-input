@@ -1,0 +1,33 @@
+{
+	"SN2015Y":{
+		"schema":"",
+		"name":"SN2015Y",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2015Y",
+				"source":"1"
+			},
+			{
+				"value":"iPTF15afw",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2015",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

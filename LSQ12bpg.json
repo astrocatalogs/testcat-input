@@ -1,0 +1,63 @@
+{
+	"LSQ12bpg":{
+		"schema":"",
+		"name":"LSQ12bpg",
+		"sources":[
+			{
+				"name":"2011ApJ...737..103S",
+				"bibcode":"2011ApJ...737..103S",
+				"reference":"Schlafly & Finkbeiner (2011)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"LSQ12bpg",
+				"source":"2"
+			},
+			{
+				"value":"CSS120419:150732+203300",
+				"source":"2"
+			}
+		],
+		"dec":[
+			{
+				"value":"+20:33:00",
+				"derived":true,
+				"u_value":"degrees",
+				"source":"2"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2012/04/19",
+				"derived":true,
+				"source":"2"
+			}
+		],
+		"ebv":[
+			{
+				"value":"0.0335",
+				"derived":true,
+				"e_value":"0.0007",
+				"source":"1,2"
+			}
+		],
+		"ra":[
+			{
+				"value":"15:07:32",
+				"derived":true,
+				"u_value":"hours",
+				"source":"2"
+			}
+		]
+	}
+}

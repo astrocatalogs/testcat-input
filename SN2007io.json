@@ -1,0 +1,41 @@
+{
+	"SN2007io":{
+		"schema":"",
+		"name":"SN2007io",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2007io",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2007",
+				"derived":true,
+				"source":"1"
+			}
+		],
+		"errors":[
+			{
+				"extra":"ra",
+				"kind":"bibcode",
+				"value":"2007CBET.1063....1A"
+			},
+			{
+				"extra":"ra",
+				"kind":"name",
+				"value":"Latest Supernovae"
+			}
+		]
+	}
+}

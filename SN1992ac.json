@@ -1,0 +1,35 @@
+{
+	"SN1992ac":{
+		"schema":"",
+		"name":"SN1992ac",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1992ac",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1992",
+				"derived":true,
+				"source":"1"
+			}
+		],
+		"distinctfrom":[
+			{
+				"value":"SN1992R",
+				"source":"1"
+			}
+		]
+	}
+}

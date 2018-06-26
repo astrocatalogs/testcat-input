@@ -1,0 +1,75 @@
+{
+	"SN1991W":{
+		"schema":"",
+		"name":"SN1991W",
+		"sources":[
+			{
+				"name":"2011ApJ...737..103S",
+				"bibcode":"2011ApJ...737..103S",
+				"reference":"Schlafly & Finkbeiner (2011)",
+				"alias":"1"
+			},
+			{
+				"name":"1991IAUC.5270....4M",
+				"bibcode":"1991IAUC.5270....4M",
+				"reference":"Mueller, Reid, & Day (1991)",
+				"alias":"2"
+			},
+			{
+				"name":"1991IAUC.5258....2M",
+				"bibcode":"1991IAUC.5258....2M",
+				"reference":"Mueller & Leibundgut (1991)",
+				"alias":"3"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"4"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1991W",
+				"source":"2"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"star",
+				"source":"2"
+			}
+		],
+		"dec":[
+			{
+				"value":"+27:11:32",
+				"u_value":"degrees",
+				"source":"3"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1991",
+				"derived":true,
+				"source":"4"
+			}
+		],
+		"ebv":[
+			{
+				"value":"0.0158",
+				"derived":true,
+				"e_value":"0.0011",
+				"source":"1,4"
+			}
+		],
+		"ra":[
+			{
+				"value":"14:26:13.9",
+				"u_value":"hours",
+				"source":"3"
+			}
+		]
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"LSQ14ahb":{
+		"schema":"",
+		"name":"LSQ14ahb",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"LSQ14ahb",
+				"source":"1"
+			},
+			{
+				"value":"MLS140408:102828+180008",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2014/04/08",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

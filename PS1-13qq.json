@@ -1,0 +1,33 @@
+{
+	"PS1-13qq":{
+		"schema":"",
+		"name":"PS1-13qq",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"PS1-13qq",
+				"source":"1"
+			},
+			{
+				"value":"PSc480794",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2013",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

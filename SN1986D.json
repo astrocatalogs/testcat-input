@@ -1,0 +1,41 @@
+{
+	"SN1986D":{
+		"schema":"",
+		"name":"SN1986D",
+		"sources":[
+			{
+				"name":"1986IAUC.4202....2G",
+				"bibcode":"1986IAUC.4202....2G",
+				"reference":"Gehrz et al. (1986)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1986D",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"False Positive",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1986",
+				"derived":true,
+				"source":"2"
+			}
+		]
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"SN2003bg":{
+		"schema":"",
+		"name":"SN2003bg",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2003bg",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2003",
+				"derived":true,
+				"source":"1"
+			}
+		],
+		"spectra":[
+			{
+				"exclude":[
+					{
+						"below":"3190",
+						"reason":"noise"
+					}
+				],
+				"filename":"sn2003bg-20030228-br.flm",
+				"source":"1"
+			}
+		]
+	}
+}

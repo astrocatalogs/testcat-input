@@ -1,0 +1,41 @@
+{
+	"Gaia14aae":{
+		"schema":"",
+		"name":"Gaia14aae",
+		"sources":[
+			{
+				"name":"2015MNRAS.452.1060C",
+				"bibcode":"2015MNRAS.452.1060C",
+				"reference":"Campbell et al. (2015)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"Gaia14aae",
+				"source":"2"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"CV",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2014",
+				"derived":true,
+				"source":"2"
+			}
+		]
+	}
+}

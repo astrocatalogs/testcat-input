@@ -1,0 +1,41 @@
+{
+	"SN2000ch":{
+		"schema":"",
+		"name":"SN2000ch",
+		"sources":[
+			{
+				"name":"2018MNRAS.474..197P",
+				"bibcode":"2018MNRAS.474..197P",
+				"reference":"Pastorello et al. (2018)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2000ch",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"LBV",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2000",
+				"derived":true,
+				"source":"2"
+			}
+		]
+	}
+}

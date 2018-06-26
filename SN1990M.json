@@ -1,0 +1,59 @@
+{
+	"SN1990M":{
+		"schema":"",
+		"name":"SN1990M",
+		"sources":[
+			{
+				"name":"2006ApJ...646..369P",
+				"bibcode":"2006ApJ...646..369P",
+				"reference":"Panagia et al. (2006)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1990M",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1990/06/29",
+				"derived":true,
+				"source":"1,2"
+			}
+		],
+		"photometry":[
+			{
+				"time":"48071.00",
+				"e_fluxdensity":"40.0",
+				"fluxdensity":"0.0",
+				"frequency":"8.4",
+				"instrument":"VLA",
+				"u_fluxdensity":"µJy",
+				"u_frequency":"GHz",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48239.00",
+				"e_fluxdensity":"40.0",
+				"fluxdensity":"0.0",
+				"frequency":"8.4",
+				"instrument":"VLA",
+				"u_fluxdensity":"µJy",
+				"u_frequency":"GHz",
+				"u_time":"MJD",
+				"source":"1"
+			}
+		]
+	}
+}

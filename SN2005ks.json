@@ -1,0 +1,63 @@
+{
+	"SN2005ks":{
+		"schema":"",
+		"name":"SN2005ks",
+		"sources":[
+			{
+				"name":"2005IAUC.8634....2M",
+				"bibcode":"2005IAUC.8634....2M",
+				"reference":"Migliardi et al. (2005)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2005ks",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ic BL",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2005",
+				"derived":true,
+				"source":"2"
+			}
+		],
+		"errors":[
+			{
+				"extra":"claimedtype",
+				"kind":"bibcode",
+				"value":"2012A&A...538A.120L"
+			},
+			{
+				"extra":"claimedtype",
+				"kind":"bibcode",
+				"value":"2008ApJ...673..999P"
+			},
+			{
+				"extra":"claimedtype",
+				"kind":"name",
+				"value":"Transient Name Server"
+			},
+			{
+				"extra":"claimedtype",
+				"kind":"name",
+				"value":"Latest Supernovae"
+			}
+		]
+	}
+}

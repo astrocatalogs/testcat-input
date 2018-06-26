@@ -1,0 +1,35 @@
+{
+	"MLS120429:133606-113718":{
+		"schema":"",
+		"name":"MLS120429:133606-113718",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"MLS120429:133606-113718",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2012/04/29",
+				"derived":true,
+				"source":"1"
+			}
+		],
+		"distinctfrom":[
+			{
+				"value":"MASTER OT J134201.21-023856.2",
+				"source":"1"
+			}
+		]
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"SN2005B":{
+		"schema":"",
+		"name":"SN2005B",
+		"sources":[
+			{
+				"name":"2005ATel..392....1G",
+				"bibcode":"2005ATel..392....1G",
+				"reference":"Gal-Yam (2005)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2005B",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"II",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2005",
+				"derived":true,
+				"source":"2"
+			}
+		]
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"ROTSE3 J133033.0-313427":{
+		"schema":"",
+		"name":"ROTSE3 J133033.0-313427",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"ROTSE3 J133033.0-313427",
+				"source":"1"
+			},
+			{
+				"value":"ROTSE3 J133033.0-313426.8",
+				"source":"1"
+			}
+		]
+	}
+}

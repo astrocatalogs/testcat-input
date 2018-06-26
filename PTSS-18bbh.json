@@ -1,0 +1,33 @@
+{
+	"PTSS-18bbh":{
+		"schema":"",
+		"name":"PTSS-18bbh",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"PTSS-18bbh",
+				"source":"1"
+			},
+			{
+				"value":"MLS180115:112724+063103",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2018/01/15",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

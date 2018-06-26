@@ -1,0 +1,39 @@
+{
+	"AT2016ioi":{
+		"schema":"",
+		"name":"AT2016ioi",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"AT2016ioi",
+				"source":"1"
+			},
+			{
+				"value":"PTSS-17det",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Candidate",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2016",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

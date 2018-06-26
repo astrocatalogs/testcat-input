@@ -1,0 +1,77 @@
+{
+	"SN2010hc":{
+		"schema":"",
+		"name":"SN2010hc",
+		"sources":[
+			{
+				"name":"2016A&A...594A..13P",
+				"bibcode":"2016A&A...594A..13P",
+				"reference":"Planck Collaboration et al. (2016)",
+				"alias":"1"
+			},
+			{
+				"name":"2010CBET.2456A...1P",
+				"bibcode":"2010CBET.2456A...1P",
+				"reference":"Pignata et al. (2010)",
+				"alias":"2"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"3"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2010hc",
+				"source":"2"
+			}
+		],
+		"comovingdist":[
+			{
+				"value":"89.078",
+				"derived":true,
+				"u_value":"Mpc",
+				"source":"1,2,3"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2010",
+				"derived":true,
+				"source":"3"
+			}
+		],
+		"errors":[
+			{
+				"extra":"redshift",
+				"kind":"bibcode",
+				"value":"2012A&A...538A.120L"
+			}
+		],
+		"lumdist":[
+			{
+				"value":"90.8799",
+				"derived":true,
+				"u_value":"Mpc",
+				"source":"1,2,3"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.020223",
+				"source":"2"
+			}
+		],
+		"velocity":[
+			{
+				"value":"6001.4",
+				"u_value":"km/s",
+				"source":"3"
+			}
+		]
+	}
+}

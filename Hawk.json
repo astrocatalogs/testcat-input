@@ -1,0 +1,33 @@
+{
+	"Hawk":{
+		"schema":"",
+		"name":"Hawk",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"Hawk",
+				"source":"1"
+			},
+			{
+				"value":"HST04Haw",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2004",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

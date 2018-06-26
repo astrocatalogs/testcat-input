@@ -1,0 +1,48 @@
+{
+	"SN2011dm":{
+		"schema":"",
+		"name":"SN2011dm",
+		"sources":[
+			{
+				"name":"2016ApJ...821..119C",
+				"bibcode":"2016ApJ...821..119C",
+				"reference":"Chomiuk et al. (2016)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2011dm",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2011/06/23",
+				"derived":true,
+				"source":"1,2"
+			}
+		],
+		"photometry":[
+			{
+				"time":"55735.10",
+				"e_fluxdensity":"5.0",
+				"fluxdensity":"-4.0",
+				"frequency":"5.9",
+				"instrument":"VLA",
+				"u_fluxdensity":"µJy",
+				"u_frequency":"GHz",
+				"u_time":"MJD",
+				"source":"1"
+			}
+		]
+	}
+}

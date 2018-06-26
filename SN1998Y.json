@@ -1,0 +1,35 @@
+{
+	"SN1998Y":{
+		"schema":"",
+		"name":"SN1998Y",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1998Y",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1998",
+				"derived":true,
+				"source":"1"
+			}
+		],
+		"distinctfrom":[
+			{
+				"value":"SN2000C",
+				"source":"1"
+			}
+		]
+	}
+}

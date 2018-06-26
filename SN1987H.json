@@ -1,0 +1,41 @@
+{
+	"SN1987H":{
+		"schema":"",
+		"name":"SN1987H",
+		"sources":[
+			{
+				"name":"1987IAUC.4379....1K",
+				"bibcode":"1987IAUC.4379....1K",
+				"reference":"Kosai, McNaught, & Evans (1987)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1987H",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Star",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1987",
+				"derived":true,
+				"source":"2"
+			}
+		]
+	}
+}

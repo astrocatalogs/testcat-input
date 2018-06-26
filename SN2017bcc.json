@@ -1,0 +1,43 @@
+{
+	"SN2017bcc":{
+		"schema":"",
+		"name":"SN2017bcc",
+		"sources":[
+			{
+				"name":"ATel 10177",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2017bcc",
+				"source":"1"
+			},
+			{
+				"value":"AT2017bcc",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"TDE",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2017",
+				"derived":true,
+				"source":"2"
+			}
+		]
+	}
+}

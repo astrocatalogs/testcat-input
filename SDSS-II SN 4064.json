@@ -1,0 +1,24 @@
+{
+	"SDSS-II SN 4064":{
+		"schema":"",
+		"name":"SDSS-II SN 4064",
+		"sources":[
+			{
+				"name":"2010ApJ...716..712A",
+				"bibcode":"2010ApJ...716..712A",
+				"reference":"Amanullah et al. (2010)",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SDSS-II SN 4064",
+				"source":"1"
+			},
+			{
+				"value":"SDSSJ030426.25+010245.2",
+				"source":"1"
+			}
+		]
+	}
+}

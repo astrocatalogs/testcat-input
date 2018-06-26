@@ -1,0 +1,33 @@
+{
+	"SN Primo":{
+		"schema":"",
+		"name":"SN Primo",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN Primo",
+				"source":"1"
+			},
+			{
+				"value":"GSD10Pri",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2010",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

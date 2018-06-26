@@ -1,0 +1,41 @@
+{
+	"SN2002ad":{
+		"schema":"",
+		"name":"SN2002ad",
+		"sources":[
+			{
+				"name":"2004ApJ...602..571B",
+				"bibcode":"2004ApJ...602..571B",
+				"reference":"Barris et al. (2004)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2002ad",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ia",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2002",
+				"derived":true,
+				"source":"2"
+			}
+		]
+	}
+}

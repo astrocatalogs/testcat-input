@@ -1,0 +1,35 @@
+{
+	"Gaia15aff":{
+		"schema":"",
+		"name":"Gaia15aff",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"Gaia15aff",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Star",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2015",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

@@ -1,0 +1,69 @@
+{
+	"OGLE-2015-SN-078":{
+		"schema":"",
+		"name":"OGLE-2015-SN-078",
+		"sources":[
+			{
+				"name":"2011ApJ...737..103S",
+				"bibcode":"2011ApJ...737..103S",
+				"reference":"Schlafly & Finkbeiner (2011)",
+				"alias":"1"
+			},
+			{
+				"name":"ATel 7318",
+				"url":"http://www.astronomerstelegram.org/?read=7318",
+				"alias":"2"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"3"
+			}
+		],
+		"alias":[
+			{
+				"value":"OGLE-2015-SN-078",
+				"source":"2"
+			}
+		],
+		"dec":[
+			{
+				"value":"-51:42:06.0",
+				"u_value":"degrees",
+				"source":"2"
+			}
+		],
+		"ebv":[
+			{
+				"value":"0.0351",
+				"derived":true,
+				"e_value":"0.0016",
+				"source":"1,3"
+			}
+		],
+		"errors":[
+			{
+				"extra":"ra",
+				"kind":"name",
+				"source":"2",
+				"value":"OGLE-IV Transient Detection System"
+			},
+			{
+				"extra":"dec",
+				"kind":"name",
+				"source":"2",
+				"value":"OGLE-IV Transient Detection System"
+			}
+		],
+		"ra":[
+			{
+				"value":"5:27:24.84",
+				"u_value":"hours",
+				"source":"2"
+			}
+		]
+	}
+}

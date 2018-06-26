@@ -1,0 +1,41 @@
+{
+	"SN1999cu":{
+		"schema":"",
+		"name":"SN1999cu",
+		"sources":[
+			{
+				"name":"2003IAUC.8171....2G",
+				"bibcode":"2003IAUC.8171....2G",
+				"reference":"Gal-Yam et al. (2003)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1999cu",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"AGN",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1999",
+				"derived":true,
+				"source":"2"
+			}
+		]
+	}
+}

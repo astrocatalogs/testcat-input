@@ -1,0 +1,36 @@
+{
+	"MLS131002:004006+004655":{
+		"schema":"",
+		"name":"MLS131002:004006+004655",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"MLS131002:004006+004655",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2013/10/02",
+				"derived":true,
+				"source":"1"
+			}
+		],
+		"errors":[
+			{
+				"extra":"dec",
+				"kind":"name",
+				"value":"Latest Supernovae"
+			}
+		]
+	}
+}

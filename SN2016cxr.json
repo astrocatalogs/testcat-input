@@ -1,0 +1,37 @@
+{
+	"SN2016cxr":{
+		"schema":"",
+		"name":"SN2016cxr",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2016cxr",
+				"source":"1"
+			},
+			{
+				"value":"MLS160617:211830+095501",
+				"source":"1"
+			},
+			{
+				"value":"AT2016cxr",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2016/06/17",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"S147":{
+		"schema":"",
+		"name":"S147",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"S147",
+				"source":"1"
+			},
+			{
+				"value":"Simeis 147",
+				"source":"1"
+			},
+			{
+				"value":"Spaghetti Nebula",
+				"source":"1"
+			},
+			{
+				"value":"Simeiz 147",
+				"source":"1"
+			}
+		]
+	}
+}

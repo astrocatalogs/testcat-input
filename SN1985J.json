@@ -1,0 +1,41 @@
+{
+	"SN1985J":{
+		"schema":"",
+		"name":"SN1985J",
+		"sources":[
+			{
+				"name":"1985IAUC.4070....1K",
+				"bibcode":"1985IAUC.4070....1K",
+				"reference":"Kirshner & Newbury (1985)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1985J",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"CV?",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1985",
+				"derived":true,
+				"source":"2"
+			}
+		]
+	}
+}

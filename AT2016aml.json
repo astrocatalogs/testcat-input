@@ -1,0 +1,39 @@
+{
+	"AT2016aml":{
+		"schema":"",
+		"name":"AT2016aml",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"AT2016aml",
+				"source":"1"
+			},
+			{
+				"value":"MLS160228:103437+021431",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Candidate",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2016/02/28",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

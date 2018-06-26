@@ -1,0 +1,41 @@
+{
+	"LSQ12gdj":{
+		"schema":"",
+		"name":"LSQ12gdj",
+		"sources":[
+			{
+				"name":"2014MNRAS.445...30S",
+				"bibcode":"2014MNRAS.445...30S",
+				"reference":"Scalzo et al. (2014)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"LSQ12gdj",
+				"source":"2"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2012",
+				"derived":true,
+				"source":"2"
+			}
+		],
+		"host":[
+			{
+				"value":"ESO 472-G007",
+				"source":"1"
+			}
+		]
+	}
+}

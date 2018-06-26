@@ -1,0 +1,33 @@
+{
+	"SNhunt248":{
+		"schema":"",
+		"name":"SNhunt248",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SNhunt248",
+				"source":"1"
+			},
+			{
+				"value":"iPTF14aru",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2014",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"PSc091748":{
+		"schema":"",
+		"name":"PSc091748",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"PSc091748",
+				"source":"1"
+			},
+			{
+				"value":"PS1-10bji",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2010",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

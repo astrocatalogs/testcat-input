@@ -1,0 +1,48 @@
+{
+	"SN2016aaj":{
+		"schema":"",
+		"name":"SN2016aaj",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2016aaj",
+				"source":"1"
+			},
+			{
+				"value":"Gaia16aca",
+				"source":"1"
+			},
+			{
+				"value":"SNhunt303",
+				"source":"1"
+			},
+			{
+				"value":"AT2016aaj",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2016",
+				"derived":true,
+				"source":"1"
+			}
+		],
+		"errors":[
+			{
+				"extra":"alias",
+				"kind":"name",
+				"value":"Transient Name Server"
+			}
+		]
+	}
+}

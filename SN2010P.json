@@ -1,0 +1,41 @@
+{
+	"SN2010P":{
+		"schema":"",
+		"name":"SN2010P",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2010P",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2010",
+				"derived":true,
+				"source":"1"
+			}
+		],
+		"errors":[
+			{
+				"extra":"ra",
+				"kind":"bibcode",
+				"value":"2009ApJ...696..870D"
+			},
+			{
+				"extra":"dec",
+				"kind":"bibcode",
+				"value":"2009ApJ...696..870D"
+			}
+		]
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"SN2017lf":{
+		"schema":"",
+		"name":"SN2017lf",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2017lf",
+				"source":"1"
+			},
+			{
+				"value":"Gaia17afy",
+				"source":"1"
+			},
+			{
+				"value":"AT2017lf",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2017",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

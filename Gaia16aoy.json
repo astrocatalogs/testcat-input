@@ -1,0 +1,41 @@
+{
+	"Gaia16aoy":{
+		"schema":"",
+		"name":"Gaia16aoy",
+		"sources":[
+			{
+				"name":"2016ATel.9062....1F",
+				"bibcode":"2016ATel.9062....1F",
+				"reference":"Fraser et al. (2016)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"Gaia16aoy",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Dwarf Nova",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2016",
+				"derived":true,
+				"source":"2"
+			}
+		]
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"Gaia17ckx":{
+		"schema":"",
+		"name":"Gaia17ckx",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"Gaia17ckx",
+				"source":"1"
+			},
+			{
+				"value":"PTSS-17bbfk",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2017",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

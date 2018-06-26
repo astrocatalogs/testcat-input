@@ -1,0 +1,33 @@
+{
+	"SN2009ky":{
+		"schema":"",
+		"name":"SN2009ky",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2009ky",
+				"source":"1"
+			},
+			{
+				"value":"PS1-0910021",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2009",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}

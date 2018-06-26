@@ -1,0 +1,59 @@
+{
+	"iPTF14atg":{
+		"schema":"",
+		"name":"iPTF14atg",
+		"sources":[
+			{
+				"name":"2015Natur.521..328C",
+				"bibcode":"2015Natur.521..328C",
+				"reference":"Cao et al. (2015)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"iPTF14atg",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2014/05/16",
+				"derived":true,
+				"source":"1,2"
+			}
+		],
+		"photometry":[
+			{
+				"time":"56793.20",
+				"e_fluxdensity":"10.0",
+				"fluxdensity":"0.0",
+				"frequency":"6.1",
+				"instrument":"VLA",
+				"u_fluxdensity":"µJy",
+				"u_frequency":"GHz",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56793.20",
+				"e_fluxdensity":"10.0",
+				"fluxdensity":"0.0",
+				"frequency":"22.0",
+				"instrument":"VLA",
+				"u_fluxdensity":"µJy",
+				"u_frequency":"GHz",
+				"u_time":"MJD",
+				"source":"1"
+			}
+		]
+	}
+}

@@ -1,0 +1,69 @@
+{
+	"SN1961W":{
+		"schema":"",
+		"name":"SN1961W",
+		"sources":[
+			{
+				"name":"2011ApJ...737..103S",
+				"bibcode":"2011ApJ...737..103S",
+				"reference":"Schlafly & Finkbeiner (2011)",
+				"alias":"1"
+			},
+			{
+				"name":"2004yCat.2250....0S",
+				"bibcode":"2004yCat.2250....0S",
+				"reference":"Samus, Durlevich, & et al. (2004)",
+				"alias":"2"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"3"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1961W",
+				"source":"2"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Star",
+				"source":"2"
+			}
+		],
+		"dec":[
+			{
+				"value":"+14:20:46",
+				"u_value":"degrees",
+				"source":"2"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1961",
+				"derived":true,
+				"source":"3"
+			}
+		],
+		"ebv":[
+			{
+				"value":"0.0328",
+				"derived":true,
+				"e_value":"0.0009",
+				"source":"1,3"
+			}
+		],
+		"ra":[
+			{
+				"value":"12:32:26.0",
+				"u_value":"hours",
+				"source":"2"
+			}
+		]
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"LSQ12bgl":{
+		"schema":"",
+		"name":"LSQ12bgl",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"LSQ12bgl",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2012",
+				"derived":true,
+				"source":"1"
+			}
+		],
+		"errors":[
+			{
+				"extra":"redshift",
+				"kind":"name",
+				"value":"Latest Supernovae"
+			}
+		]
+	}
+}

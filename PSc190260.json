@@ -1,0 +1,33 @@
+{
+	"PSc190260":{
+		"schema":"",
+		"name":"PSc190260",
+		"sources":[
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"PSc190260",
+				"source":"1"
+			},
+			{
+				"value":"PS1-11alv",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2011",
+				"derived":true,
+				"source":"1"
+			}
+		]
+	}
+}
