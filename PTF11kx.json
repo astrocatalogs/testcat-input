@@ -1,0 +1,48 @@
+{
+	"PTF11kx":{
+		"schema":"",
+		"name":"PTF11kx",
+		"sources":[
+			{
+				"name":"2012Sci...337..942D",
+				"bibcode":"2012Sci...337..942D",
+				"reference":"Dilday et al. (2012)",
+				"alias":"1"
+			},
+			{
+				"name":"The Open Supernova Catalog",
+				"bibcode":"2017ApJ...835...64G",
+				"reference":"Guillochon et al. (2017)",
+				"secondary":true,
+				"url":"https://sne.space",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"PTF11kx",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2011/03/30",
+				"derived":true,
+				"source":"1,2"
+			}
+		],
+		"photometry":[
+			{
+				"time":"55650.20",
+				"e_fluxdensity":"23.0",
+				"fluxdensity":"0.00",
+				"frequency":"8.4",
+				"instrument":"VLA",
+				"u_fluxdensity":"µJy",
+				"u_frequency":"GHz",
+				"u_time":"MJD",
+				"source":"1"
+			}
+		]
+	}
+}
